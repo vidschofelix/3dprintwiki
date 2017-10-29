@@ -1,0 +1,6 @@
+base   3dprintwiki
+author Vidschofelix
+email  vidschofelix@gmx.com
+date   2017-10-28
+name   3dprintwiki
+desc   Modifications for 3DPrint.wiki
